@@ -1,0 +1,9 @@
+2015-05-19 15:36:46 - PHP Notice:  Undefined variable: languages in C:\wamp\www\minhanhshop\catalog\view\theme\food\template\common\header.tpl on line 59
+2015-05-19 15:36:46 - PHP Notice:  Undefined variable: currencies in C:\wamp\www\minhanhshop\catalog\view\theme\food\template\common\header.tpl on line 70
+2015-05-19 15:36:46 - PHP Notice:  Undefined variable: text_cart in C:\wamp\www\minhanhshop\catalog\view\theme\food\template\common\header.tpl on line 96
+2015-05-19 15:36:46 - PHP Notice:  Undefined variable: text_items in C:\wamp\www\minhanhshop\catalog\view\theme\food\template\common\header.tpl on line 97
+2015-05-19 15:36:46 - PHP Notice:  Undefined variable: filter_name in C:\wamp\www\minhanhshop\catalog\view\theme\food\template\common\header.tpl on line 102
+2015-05-19 15:36:46 - PHP Notice:  Undefined variable: text_search in C:\wamp\www\minhanhshop\catalog\view\theme\food\template\common\header.tpl on line 105
+2015-05-19 15:36:46 - PHP Notice:  Undefined variable: text_welcome in C:\wamp\www\minhanhshop\catalog\view\theme\food\template\common\header.tpl on line 110
+2015-05-19 15:36:46 - PHP Notice:  Undefined variable: text_cart in C:\wamp\www\minhanhshop\catalog\view\theme\food\template\common\header.tpl on line 115
+2015-06-06 14:40:14 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\minhanhshop\system\library\mail.php on line 162
